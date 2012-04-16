@@ -1,7 +1,0 @@
-INDEX VERSION 1.122+/Users/plb/Projekte/uni/webengineering/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-2800471989.index
-3466963421.index
-3890956905.index
-3933488468.index
-3935869081.index
-511589609.index
