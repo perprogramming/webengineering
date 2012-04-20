@@ -55,7 +55,7 @@ var AIS = (function() {
 		var context = canvas.getContext('2d');
 		context.save();
 		
-		// Ursprung auf die Position des Schiffes schieben und nach Ausrichtung des Schiffes schieben 
+		// Ursprung auf die Position des Schiffes schieben und nach Ausrichtung des Schiffes drehen
 		context.translate(this.getPixelOffsetLeft(), this.getPixelOffsetTop());
 		context.rotate(this.courseOverGround * (Math.PI / 180));
 		
